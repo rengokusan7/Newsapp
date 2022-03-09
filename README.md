@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-24ghanta(name of this news app) was created using reactjs and a newsapi key avalaible in the open source repository of Saurav kanchan was used for backend data.
+24ghanta(name of this news app) was created using reactjs and a newsapi key available in the open source repository of Saurav kanchan was used for backend data.
 link for the application : https://24ghanta.netlify.app .
 
 ## Available Scripts
